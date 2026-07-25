@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @mishkidreams
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+C#/.NET engineer building backend systems, infrastructure,
+developer tools, games, and projects that refuse to stay small.
 
-<!---
-mishkidreams/mishkidreams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my work lives in private repositories. The green graph doesn't.
